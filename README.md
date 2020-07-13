@@ -1,4 +1,4 @@
-# Excel Homework: Kickstart My Chart
+# Kickstart My Chart
 
 ## Background
 
@@ -14,7 +14,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Instructions
 
-![Kickstarter Table](Images/FullTable.PNG)
+![excel-challenge](Images/FullTable.PNG)
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
@@ -28,13 +28,13 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
-  ![Category Stats](Images/CategoryStats.PNG)
+  ![excel-challenge](Images/CategoryStats.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
+  ![excel-challenge](Images/SubcategoryStats.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
@@ -86,7 +86,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
   * 45000 to 49999
   * Greater than or equal to 50000
 
-  ![Goal Outcomes](Images/GoalOutcomes.PNG)
+  ![excel-challenge](Images/GoalOutcomes.PNG)
 
 * Using the `COUNTIFS()` formula, count how many successful, failed, and canceled projects were created with goals within the ranges listed above. Populate the `Number Successful`, `Number Failed`, and `Number Canceled` columns with this data.
 
@@ -102,7 +102,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Create a new worksheet in your workbook, and create a column each for the number of backers of successful campaigns and unsuccessful campaigns.
 
-  ![Images/backers01.png](Images/backers01.png)
+  ![excel-challenge](Images/backers01.png)
 
 * Use Excel to evaluate the following for successful campaigns, and then for unsuccessful campaigns:
 
